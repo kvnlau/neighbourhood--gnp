@@ -26,20 +26,20 @@ PHP
 - /includes/swift-framework/woocommerce/single-product/add-to-cart/quantity.php
 - /includes/swift-framework/woocommerce/single-product/add-to-cart/simple.php
 - /includes/swift-framework/woocommerce/checkout/form-checkout.php 
--- 25 columns
+  - 25 columns
 - /includes/swift-framework/woocommerce/loop/add-to-cart.php
--- "Add to cart"
+  - "Add to cart"
 
 CSS
 ---
 - /includes/css/bootstrap-responsive.min.css
--- Remove responsiveness
+  - Remove responsiveness
 - /includes/css/bootstrap.min.css
--- 25 columns
+  - 25 columns
 
 JS
 --
 - /js/functions.min.js
 - /js/functions.js
 - /includes/swift-framework/page-builder/assets/js/page-builder.js
--- update to 25 columns
+  - update to 25 columns
