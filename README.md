@@ -9,11 +9,11 @@ PHP
 - footer.php
 - functions.php
 - page.php
+- /includes/swift-framework/sf-custom-styles.php
+- /includes/swift-framework/sf-woocommerce.php
 - /includes/swift-framework/sf-content-display/sf-header.php
 - /includes/swift-framework/sf-content-display/sf-template-parts.php
 - /includes/swift-framework/sf-content-display/sf-products.php
-- /includes/swift-framework/sf-custom-styles.php
-- /includes/swift-framework/sf-woocommerce.php
 - /includes/swift-framework/page-builder/helpers.php
 - /includes/swift-framework/woocommerce/archive-product.php
 - /includes/swift-framework/woocommerce/content-product.php
@@ -25,15 +25,21 @@ PHP
 - /includes/swift-framework/woocommerce/single-product/tabs/tabs.php
 - /includes/swift-framework/woocommerce/single-product/add-to-cart/quantity.php
 - /includes/swift-framework/woocommerce/single-product/add-to-cart/simple.php
-- /includes/swift-framework/woocommerce/checkout/form-checkout.php - 25 columns
-- /includes/swift-framework/woocommerce/loop/add-to-cart.php - "Add to cart"
+- /includes/swift-framework/woocommerce/checkout/form-checkout.php 
+-- 25 columns
+- /includes/swift-framework/woocommerce/loop/add-to-cart.php
+-- "Add to cart"
 
 CSS
 ---
-- /includes/css/bootstrap-responsive.min.css - Remove responsiveness
+- /includes/css/bootstrap-responsive.min.css
+-- Remove responsiveness
+- /includes/css/bootstrap.min.css
+-- 25 columns
 
 JS
 --
 - /js/functions.min.js
 - /js/functions.js
-- /includes/swift-framework/page-builder/assets/js/page-builder.js - update to 25 columns
+- /includes/swift-framework/page-builder/assets/js/page-builder.js
+-- update to 25 columns
